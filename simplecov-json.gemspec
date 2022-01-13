@@ -12,7 +12,6 @@ Gem::Specification.new do |s|
   s.summary     = %Q{JSON formatter for SimpleCov code coverage tool for ruby 1.9+}
   s.description = %Q{JSON formatter for SimpleCov code coverage tool for ruby 1.9+}
 
-  s.rubyforge_project = "simplecov-json"
   s.files         = ['lib/simplecov-json.rb']
   s.test_files    = ['test/helper.rb', 'test/test_simplecov_json.rb']
   s.require_paths = ["lib"]
